@@ -10,3 +10,7 @@ Hello everyone, this is a repository for checking the completeness of student na
 - 19507334038 - Muhammad Dhisyharavic
 - 19507334039 - Pingkan Titi Fatikha
 - 19507334008 - Lelly Kurniasih
+- 19507334037 - Rahman Maulana Jundika
+- 19507334036 - Velia Damayanti
+- 19507334040 - Muhammad Malik Wijaya
+- 19507334024 - Rayhandiko Rafif A
